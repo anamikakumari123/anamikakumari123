@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anamikakumari123
-- 👀 I'm software engineer , having skills in C , C++ , MySQL , HTML , CSS , JAVA
-- 🌱 I’m currently learning web development using Python and django
+- 👀 I'm software engineer , having skills in C , java , MySQL , HTML , CSS , J2EE 
+- 🌱 I’m currently learning web development using spring boot.
 - 💞️ I’m looking to collaborate on software industry where i can get an oppurtunity and enviroment to utilise my skills for the industry as well as myself.
 - 📫 How to reach me : +91- 9661302305 , 1201anamika@gmail.com
 
