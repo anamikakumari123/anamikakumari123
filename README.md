@@ -14,5 +14,6 @@ If you are interested in connecting with me or exploring potential collaboration
 
 Anamika Kumari Linkedin
 Please feel free to connect with me on LinkedIn. I'm open to building new professional connections and exploring exciting opportunities in the technology field!
-- 📫 How to reach me : +91- 8102044022 , 1610anamika@gmail.com
+- 📫 How to reach me : +91- 8102044022
+- Gmail: 1610anamika@gmail.com
 - Linkedin :  https://www.linkedin.com/in/anamika-kumari-37a761197/
